@@ -16,10 +16,6 @@
     "concurrently": "^5.1.0"
   },
   "dependencies": {
-    "apollo-server-express": "^2.15.0",
-    "caniuse-lite": "^1.0.30001307"
-  },
-  "optionalDependencies": {    
-    "fsevents": "^2.3.2"    }
-    
+    "apollo-server-express": "^2.15.0"
+  }
 }
